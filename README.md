@@ -1,5 +1,5 @@
 # Web-Portfolio
-Web-Portfolio
+Web-tools
 
 Simple site to examine the Z-index in css.
-influnced by codeacademy website.
+influenced by codeacademy website.
